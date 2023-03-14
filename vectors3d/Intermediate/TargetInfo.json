@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "vectors3d",
+			"Path": "D:\\unreal projects\\vectors3d\\Source\\vectors3d.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "vectors3dEditor",
+			"Path": "D:\\unreal projects\\vectors3d\\Source\\vectors3dEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
