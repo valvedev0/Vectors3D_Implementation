@@ -1,2 +1,0 @@
-D:\unreal projects\vectors3d\Intermediate\Build\Win64\UE4Editor\Development\vectors3d\Definitions.vectors3d.h
-D:\unreal projects\vectors3d\Source\vectors3d\vectors3d.h

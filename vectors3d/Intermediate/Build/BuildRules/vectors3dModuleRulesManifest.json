@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"D:\\unreal projects\\vectors3d\\Source\\vectors3d\\vectors3d.Build.cs",
-		"D:\\unreal projects\\vectors3d\\Source\\vectors3d.Target.cs",
-		"D:\\unreal projects\\vectors3d\\Source\\vectors3dEditor.Target.cs"
-	],
-	"EngineVersion": "4.27.2"
-}
